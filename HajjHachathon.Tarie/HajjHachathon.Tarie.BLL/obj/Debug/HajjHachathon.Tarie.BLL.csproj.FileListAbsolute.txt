@@ -1,0 +1,9 @@
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.BLL\bin\Debug\HajjHachathon.Tarie.BLL.dll
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.BLL\bin\Debug\HajjHachathon.Tarie.BLL.pdb
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.BLL\bin\Debug\HajjHachathon.Tarie.Model.dll
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.BLL\bin\Debug\HajjHachathon.Tarie.Model.pdb
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.BLL\obj\Debug\HajjHachathon.Tarie.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.BLL\obj\Debug\HajjHachathon.Tarie.BLL.dll
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.BLL\obj\Debug\HajjHachathon.Tarie.BLL.pdb

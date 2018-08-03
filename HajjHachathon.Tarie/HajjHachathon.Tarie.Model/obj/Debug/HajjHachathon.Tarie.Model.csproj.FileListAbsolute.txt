@@ -1,0 +1,9 @@
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Model\bin\Debug\HajjHachathon.Tarie.Model.dll.config
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Model\bin\Debug\HajjHachathon.Tarie.Model.dll
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Model\bin\Debug\HajjHachathon.Tarie.Model.pdb
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Model\bin\Debug\EntityFramework.dll
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Model\bin\Debug\EntityFramework.xml
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Model\obj\Debug\HajjHachathon.Tarie.Model.dll
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Model\obj\Debug\HajjHachathon.Tarie.Model.pdb

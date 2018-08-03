@@ -1,0 +1,22 @@
+c:\users\waleed\documents\visual studio 2013\Projects\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\obj\Debug\HajjHachathon.Tarie.Test.csprojResolveAssemblyReference.cache
+c:\users\waleed\documents\visual studio 2013\Projects\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\obj\Debug\HajjHachathon.Tarie.Test.Properties.Resources.resources
+c:\users\waleed\documents\visual studio 2013\Projects\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\obj\Debug\HajjHachathon.Tarie.Test.csproj.GenerateResource.Cache
+c:\users\waleed\documents\visual studio 2013\Projects\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\bin\Debug\HajjHachathon.Tarie.Test.exe.config
+c:\users\waleed\documents\visual studio 2013\Projects\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\bin\Debug\HajjHachathon.Tarie.Test.exe
+c:\users\waleed\documents\visual studio 2013\Projects\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\bin\Debug\HajjHachathon.Tarie.Test.pdb
+c:\users\waleed\documents\visual studio 2013\Projects\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\bin\Debug\Newtonsoft.Json.dll
+c:\users\waleed\documents\visual studio 2013\Projects\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\bin\Debug\Newtonsoft.Json.xml
+c:\users\waleed\documents\visual studio 2013\Projects\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\obj\Debug\HajjHachathon.Tarie.Test.exe
+c:\users\waleed\documents\visual studio 2013\Projects\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\obj\Debug\HajjHachathon.Tarie.Test.pdb
+c:\users\waleed\documents\visual studio 2013\Projects\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\obj\Debug\HajjHachathon.Tarie.Test.Emergency.resources
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\bin\Debug\HajjHachathon.Tarie.Test.exe.config
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\obj\Debug\HajjHachathon.Tarie.Test.exe
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\obj\Debug\HajjHachathon.Tarie.Test.pdb
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\bin\Debug\HajjHachathon.Tarie.Test.exe
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\bin\Debug\HajjHachathon.Tarie.Test.pdb
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\obj\Debug\HajjHachathon.Tarie.Test.csprojResolveAssemblyReference.cache
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\obj\Debug\HajjHachathon.Tarie.Test.Emergency.resources
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\obj\Debug\HajjHachathon.Tarie.Test.Properties.Resources.resources
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\obj\Debug\HajjHachathon.Tarie.Test.csproj.GenerateResource.Cache
