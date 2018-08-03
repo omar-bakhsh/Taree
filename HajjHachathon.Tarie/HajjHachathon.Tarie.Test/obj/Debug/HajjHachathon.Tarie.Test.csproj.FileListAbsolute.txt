@@ -20,3 +20,12 @@ C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.T
 C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\obj\Debug\HajjHachathon.Tarie.Test.Emergency.resources
 C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\obj\Debug\HajjHachathon.Tarie.Test.Properties.Resources.resources
 C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\obj\Debug\HajjHachathon.Tarie.Test.csproj.GenerateResource.Cache
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\bin\Debug\HajjHachathon.Tarie.BLL.dll
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\bin\Debug\HajjHachathon.Tarie.Model.dll
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\bin\Debug\EntityFramework.dll
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\bin\Debug\HajjHachathon.Tarie.BLL.pdb
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\bin\Debug\HajjHachathon.Tarie.Model.pdb
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\bin\Debug\EntityFramework.xml
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\obj\Debug\HajjHachathon.Tarie.Test.AssignAgent.resources
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Waleed\Documents\GitHub\Tarie\Tarie\HajjHachathon.Tarie\HajjHachathon.Tarie.Test\bin\Debug\EntityFramework.SqlServer.xml

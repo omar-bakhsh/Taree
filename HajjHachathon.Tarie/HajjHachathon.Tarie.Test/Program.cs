@@ -16,7 +16,7 @@ namespace HajjHachathon.Tarie.Test
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Emergency());
+            Application.Run(new AssignAgent());
         }
     }
 }
