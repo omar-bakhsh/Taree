@@ -33,6 +33,9 @@ namespace HajjHachathon.Tarie.Test
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             SelectedCase = BLL.Bll.GetCaseById((int) comboBox1.SelectedValue).Case;
+            txtLat.Text = SelectedCase.Latidude;
+            txtLong.Text = SelectedCase.Longitude;
+            dat.Value = SelectedCase.CaseDate.Value;
             txtAssigned.Text=String.Empty;
             txtAssigned.Visible = labAssigned.Visible = false;
         }
